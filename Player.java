@@ -30,7 +30,7 @@ public class Player
 
   /* your code here - accessor(s) */ 
 
-  public double getPoints(){
+  public int getPoints(){
     return points;
   }
 
